@@ -1,0 +1,1 @@
+# Placeholder for backend/app/core/config.py
